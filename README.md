@@ -1,24 +1,24 @@
 # Eduford - World's Biggest University Website
 
-Eduford ek responsive aur modern multi-page university website hai jise maine frontend technologies ka use karke banaya hai. Isme university ke alag-alag sections jaise Home, About, Courses, Blog, aur Contact pages ko beautifully design kiya gaya hai.
+Eduford is a responsive and modern multi-page university website built using frontend technologies. It beautifully showcases various institutional sections including Home, About, Courses, Blog, and Contact pages with a clean layout.
 
 ## 🚀 Live Demo
-Aap meri is website ko live yahan dekh sakte hain:
+You can view the live website here:
 👉 [Eduford Live Website](https://pritipoddar.github.io/Website-Project/website/index.html)
 
 ---
 
 ## 🛠️ Tech Stack & Tools Used
-* **HTML5:** Website ka structure aur semantic layout banane ke liye.
-* **CSS3:** Custom styling, background overlays, Google Fonts integration aur modern grid/flexbox layouts ke liye.
-* **JavaScript:** Navigation menu ko mobile-friendly aur responsive banane ke liye.
+* **HTML5:** For creating the structure and semantic layout of the website.
+* **CSS3:** For custom styling, background overlays, Google Fonts integration, and modern layouts (Flexbox/Grid).
+* **JavaScript:** For making the navigation menu mobile-friendly and responsive.
 
 ---
 
 ## ✨ Features
-* **Fully Responsive Design:** Yeh website laptop, tablet aur mobile sabhi devices par perfectly fit hoti hai.
-* **Multi-page Architecture:** Isme alag-alag pages (`about.html`, `course.html`, `blog.html`, `contact.html`) structured hain.
-* **Modern UI/UX:** Dark background overlay ke sath clean aur readable typography ka use kiya gaya hai.
+* **Fully Responsive Design:** The website is completely optimized to fit laptops, tablets, and mobile screens perfectly.
+* **Multi-page Architecture:** Properly structured individual pages including `about.html`, `course.html`, `blog.html`, and `contact.html`.
+* **Modern UI/UX:** Features clean typography, readable layouts, and visually appealing dark background overlays.
 
 ---
 
